@@ -1,0 +1,14 @@
+/Users/jonathasabreu/Desktop/Projetos/AbraAtendimento/bin/Debug/net8.0/AbraAtendimento
+/Users/jonathasabreu/Desktop/Projetos/AbraAtendimento/bin/Debug/net8.0/AbraAtendimento.deps.json
+/Users/jonathasabreu/Desktop/Projetos/AbraAtendimento/bin/Debug/net8.0/AbraAtendimento.runtimeconfig.json
+/Users/jonathasabreu/Desktop/Projetos/AbraAtendimento/bin/Debug/net8.0/AbraAtendimento.dll
+/Users/jonathasabreu/Desktop/Projetos/AbraAtendimento/bin/Debug/net8.0/AbraAtendimento.pdb
+/Users/jonathasabreu/Desktop/Projetos/AbraAtendimento/obj/Debug/net8.0/AbraAtendimento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathasabreu/Desktop/Projetos/AbraAtendimento/obj/Debug/net8.0/AbraAtendimento.AssemblyInfoInputs.cache
+/Users/jonathasabreu/Desktop/Projetos/AbraAtendimento/obj/Debug/net8.0/AbraAtendimento.AssemblyInfo.cs
+/Users/jonathasabreu/Desktop/Projetos/AbraAtendimento/obj/Debug/net8.0/AbraAtendimento.csproj.CoreCompileInputs.cache
+/Users/jonathasabreu/Desktop/Projetos/AbraAtendimento/obj/Debug/net8.0/AbraAtendimento.dll
+/Users/jonathasabreu/Desktop/Projetos/AbraAtendimento/obj/Debug/net8.0/refint/AbraAtendimento.dll
+/Users/jonathasabreu/Desktop/Projetos/AbraAtendimento/obj/Debug/net8.0/AbraAtendimento.pdb
+/Users/jonathasabreu/Desktop/Projetos/AbraAtendimento/obj/Debug/net8.0/AbraAtendimento.genruntimeconfig.cache
+/Users/jonathasabreu/Desktop/Projetos/AbraAtendimento/obj/Debug/net8.0/ref/AbraAtendimento.dll
