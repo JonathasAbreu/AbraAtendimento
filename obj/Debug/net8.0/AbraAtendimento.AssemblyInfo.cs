@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AbraAtendimento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+189c054c7993435b967bfaec334f952e5b6dca68")]
 [assembly: System.Reflection.AssemblyProductAttribute("AbraAtendimento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AbraAtendimento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
